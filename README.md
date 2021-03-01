@@ -22,16 +22,16 @@
 ### Neofect Clinic
 - 재활 의료기기 Android App [제품정보](https://www.neofect.com/kr/for-clinic)
 - [Smart Balance](https://www.neofect.com/kr/smart-balance) 신규 서비스 개발참여
-- 유지보수 및 리팩토링
+- 유지보수 및 리팩토링, 신규 서비스 개발에 참여하고 있습니다.
 - GDPR관련 개인정보보호 강화 서비스 개발
 
 ### Neofect Cognition(Neofect Comcog)
 - 인지기능 훈련 Android App
-- 유지보수 및 리팩토링
+- 유지보수 및 리팩토링, 개선 업데이트 개발에 참여하고 있습니다.
 
-###
-- 그 외 공개되지 않은 프로토타입 Android App 개발
-- 내부 Library 유지 보수 및 새 Library 개발
+### 
+- 그 외 다수 프로토타입 Android App 개발
+- 사내 Library 유지보수 및 새 Library 개발
 - git 과 jira, confluence, slack, jenkins, zeplin을 이용한 협업(기획,디자인)
 
 ####
@@ -41,6 +41,7 @@
 - Coroutine, LiveData, viewBinding
 
 ### SkyLabs CART
+- 부정맥 탐지 반지형 웨어러블 기기와 연동하는 앱입니다.
 - CART Android App alpha version 개발 [링크](https://www.i-skylabs.com/product-mfds?lang=ko)
 - CART App 임상시험용 App 개발
 - 초기개발부터 담당하여 웨어러블 디바이스와 블루투스(BLE)로 연동하는 앱 개발
