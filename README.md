@@ -18,14 +18,20 @@
   * 안드로이드 앱 개발
   * 재직 기간: 2017.02 ~ 2019.03
 
-## 프로젝트 소개
-### Neofect
+## 프로젝트 이력
+### Neofect Clinic
 - 재활 의료기기 Android App [제품정보](https://www.neofect.com/kr/for-clinic)
-- [Smart Balance](https://www.neofect.com/kr/smart-balance) Android App 개발참여
-- Smart Glove, Smart Kids, Smart Board Android App 유지보수 
+- [Smart Balance](https://www.neofect.com/kr/smart-balance) 신규 서비스 개발참여
+- 유지보수 및 리팩토링
+- GDPR관련 개인정보보호 강화 서비스 개발
+
+### Neofect Cognition(Neofect Comcog)
+- 인지기능 훈련 Android App
+- 유지보수 및 리팩토링
+
+###
 - 그 외 공개되지 않은 프로토타입 Android App 개발
 - 내부 Library 유지 보수 및 새 Library 개발
-- GDPR관련 개인정보보호 강화
 - git 과 jira, confluence, slack, jenkins, zeplin을 이용한 협업(기획,디자인)
 
 ####
@@ -34,7 +40,7 @@
 - android architecture component, JetPack
 - Coroutine, LiveData, viewBinding
 
-### SkyLabs
+### SkyLabs CART
 - CART Android App alpha version 개발 [링크](https://www.i-skylabs.com/product-mfds?lang=ko)
 - CART App 임상시험용 App 개발
 - 초기개발부터 담당하여 웨어러블 디바이스와 블루투스(BLE)로 연동하는 앱 개발
