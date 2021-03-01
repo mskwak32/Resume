@@ -26,7 +26,7 @@
 - GDPR관련 개인정보보호 강화 서비스 개발
 
 ### Neofect Cognition(Neofect Comcog)
-- 인지기능 훈련 Android App
+- 인지능력 향상 훈련 Android App
 - 유지보수 및 리팩토링, 개선 업데이트 개발에 참여하고 있습니다.
 
 ### 
