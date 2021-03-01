@@ -3,7 +3,7 @@
 
 * 곽명수
 * Email : kase1@naver.com
-* [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmskwak32&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+* [![HitCount](http://hits.dwyl.com/mskwak32/Resume.svg)](http://hits.dwyl.com/mskwak32/Resume)
 
 헬스케어(의료기기) 스타트업에서 안드로이드 개발을 담당하고 있습니다.   
 능동적으로 프로젝트에 참여하며 기획, 디자인 등 파트과 적극적으로 협업하고자 노력합니다.   
