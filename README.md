@@ -60,7 +60,6 @@
 - 간결한 Code를 선호합니다
 - 약어보다는 의미가 명확한 네이밍을 선호합니다
 - RestFul API
-- Custom UI
 - android architecture component
 - Coroutine, LiveData, DataBinding, ViewBinding
 
