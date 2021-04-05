@@ -5,7 +5,7 @@
 * Email : kase1@naver.com
 
 헬스케어(의료기기) 스타트업에서 안드로이드 개발을 담당하고 있는 4년차 개발자입니다.   
-능동적으로 프로젝트에 참여하며 기획, 디자인 등 파트과 적극적으로 협업하고자 노력합니다.   
+능동적으로 프로젝트에 참여하며 기획, 디자인 등의 파트과 적극적으로 협업하고자 노력합니다.   
 
 ## 경력
 
@@ -58,7 +58,6 @@
 - MVVM 패턴을 선호합니다
 - 간결한 Code를 선호합니다
 - 약어보다는 의미가 명확한 네이밍을 선호합니다
-- RestFul API
 - android architecture component
 - Coroutine, LiveData, DataBinding, ViewBinding
 
