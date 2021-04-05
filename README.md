@@ -56,8 +56,6 @@
 - C,JAVA,Kotlin
 - 주로 사용하는 언어는 JAVA, Kotlin입니다
 - MVVM 패턴을 선호합니다
-- 간결한 Code를 선호합니다
-- 약어보다는 의미가 명확한 네이밍을 선호합니다
 - android architecture component
 - Coroutine, LiveData, DataBinding, ViewBinding
 
