@@ -3,6 +3,7 @@
 
 * 곽명수
 * Email : kase1@naver.com
+* [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmskwak32%2FResume&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 헬스케어(의료기기) 스타트업에서 안드로이드 개발을 담당하고 있는 4년차 개발자입니다.   
 능동적으로 프로젝트에 참여하며 기획, 디자인 등의 파트과 적극적으로 협업하고자 노력합니다.   
@@ -18,13 +19,16 @@
 
 ## 프로젝트 이력
 ### Neofect Clinic
+<img src ="https://user-images.githubusercontent.com/39761087/114212759-25525500-999d-11eb-84e9-a006f495ab8d.jpg" width="250"/>  <img src ="https://user-images.githubusercontent.com/39761087/114213027-75c9b280-999d-11eb-9880-fbfa1d0ad6c6.jpg" width="250"/>
 - 재활 의료기기 Android App [제품정보](https://www.neofect.com/kr/for-clinic)
+- smart glove, smart board, smart balance의 재활기구와 연동하여 재활훈련 콘텐츠 실행, 환자관리, 재활평가, 훈련/평가 결과 추이 리포트등을 제공하는 어플리케이션
 - [Smart Balance](https://www.neofect.com/kr/smart-balance) 신규 서비스 개발참여
 - 유지보수 및 리팩토링, 신규 서비스 개발에 참여하고 있습니다.
 - GDPR관련 개인정보보호 강화 서비스 개발
 
 ### Neofect Cognition(Neofect Comcog)
 - 인지능력 향상 훈련 Android App
+- 인지능력 향상을 위한 콘텐츠 실행 및 결과 추이 리포트, 환자관리 등을 제공하는 어플리케이션
 - 유지보수 및 리팩토링, 개선 업데이트 개발에 참여하고 있습니다.
 
 ### 
@@ -39,7 +43,9 @@
 - Coroutine, LiveData, viewBinding
 
 ### SkyLabs CART
-- 부정맥 탐지 반지형 웨어러블 기기와 연동하는 앱입니다.
+<img src = "https://user-images.githubusercontent.com/39761087/114213639-33ed3c00-999e-11eb-9f20-ee2b1bb58ac3.png" width="150" />  <img src = "https://user-images.githubusercontent.com/39761087/114213806-70209c80-999e-11eb-849e-9d0b339145f3.jpg" width="150" /> <img src = "https://user-images.githubusercontent.com/39761087/114213889-90e8f200-999e-11eb-90c0-b05c8c9a463f.png" width="150" />
+
+- 부정맥 탐지 반지형 웨어러블 기기와 연동하는 어플리케이션
 - CART Android App alpha version 개발 [링크](https://www.i-skylabs.com/product-mfds?lang=ko)
 - CART App 임상시험용 App 개발
 - 초기개발부터 담당하여 웨어러블 디바이스와 블루투스(BLE)로 연동하는 앱 개발
