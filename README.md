@@ -59,8 +59,7 @@
 - BLE 통신
 
 ## 보유 기술 및 선호하는 코드
-- C,JAVA,Kotlin
-- 주로 사용하는 언어는 JAVA, Kotlin입니다
+- JAVA,Kotlin
 - MVVM 패턴을 선호합니다
 - android architecture component
 - Coroutine, LiveData, DataBinding, ViewBinding
@@ -77,7 +76,7 @@
 ## 기타
 - 2014 상반기 캡스톤 디자인 경진대회 장려상
   - 한국해양대 LINC 사업단 졸업작품 경진대회 장려상
-  - [식물빌딩](https://blog.naver.com/kase1/220890711102)
+  - 출품작 : [식물빌딩](https://blog.naver.com/kase1/220890711102)
 - 전자기사 (2016.05)
 - 정보처리기사 (2015.05)
 
